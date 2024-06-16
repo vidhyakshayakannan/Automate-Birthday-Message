@@ -1,6 +1,6 @@
-# Friend Birthday Reminder
+# Automate Birthday Message
 
-Friend Birthday Reminder is a Flask-based web application that helps you manage and send birthday messages to friends via Instagram. This project demonstrates basic CRUD operations with SQLAlchemy for managing friends and integrates with the Instagram API (via instagrapi) to send birthday messages.
+This is a Flask-based web application that helps you manage and send birthday messages to friends via Instagram. This project demonstrates basic CRUD operations with SQLAlchemy for managing friends and integrates with the Instagram API (via instagrapi) to send birthday messages.
 
 ## Table of Contents
 
